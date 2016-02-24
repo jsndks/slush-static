@@ -1,0 +1,19 @@
+/* ---------------------------------------------------------------------
+ Site Syles
+------------------------------------------------------------------------ */
+.site {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.site-inner {
+    width: 40%;
+    margin: auto;
+    padding: 25px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Arial', 'Helvetica', sans-serif;
+}
