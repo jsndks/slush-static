@@ -1,6 +1,6 @@
 {
-    "name": "slush-quickstart",
-    "description": "a project quickstart scaffold",
+    "name": "slush-static",
+    "description": "A static project scaffold",
     "version": "0.1.0",
     "homepage": "https://github.com/jdicks/slush-quickstart",
     "author": {

@@ -1,14 +1,14 @@
-# Slush Quickstart [![Build Status](https://secure.travis-ci.org/jdicks/slush-quickstart.png?branch=master)](https://travis-ci.org/jdicks/slush-quickstart) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-quickstart.png)](http://badges.enytc.com/for/npm/slush-quickstart)
+# Slush Static [![Build Status](https://secure.travis-ci.org/jdicks/slush-static.png?branch=master)](https://travis-ci.org/jdicks/slush-static) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-static.png)](http://badges.enytc.com/for/npm/slush-static)
 
-> a project quickstart scaffold
+> a static project scaffold
 
 
 ## Getting Started
 
-Install `slush-quickstart` globally:
+Install `slush-static` globally:
 
 ```bash
-$ npm install -g slush-quickstart
+$ npm install -g slush-static
 ```
 
 ### Usage
@@ -16,13 +16,13 @@ $ npm install -g slush-quickstart
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-quickstart
+$ mkdir my-slush-static
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-quickstart && slush quickstart
+$ cd my-slush-static && slush static
 ```
 
 ## Getting To Know Slush
@@ -35,12 +35,12 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Contributing
 
-See the [CONTRIBUTING Guidelines](https://github.com/jdicks/slush-quickstart/blob/master/CONTRIBUTING.md)
+See the [CONTRIBUTING Guidelines](https://github.com/jdicks/slush-static/blob/master/CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/jdicks/slush-quickstart/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/jdicks/slush-static/issues).
 
-## License 
+## License
 
 The MIT License
 
