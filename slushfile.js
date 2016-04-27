@@ -1,6 +1,6 @@
 /*
- * slush-quickstart
- * https://github.com/jdicks/slush-quickstart
+ * slush-staticBP
+ * https://github.com/jdicks/slush-static
  *
  * Copyright (c) 2016, Jason Dicks
  * Licensed under the MIT license.
